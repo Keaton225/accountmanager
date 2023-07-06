@@ -1,0 +1,2 @@
+# accountmanager
+class word
